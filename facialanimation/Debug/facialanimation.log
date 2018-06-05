@@ -1,0 +1,29 @@
+﻿  main.cpp
+c:\users\etuna\source\repos\facialanimation\facialanimation\angel.h(65): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\facialanimation\facialanimation\mat.h(764): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\facialanimation\facialanimation\mat.h(765): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\facialanimation\facialanimation\mat.h(766): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\facialanimation\facialanimation\mat.h(787): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\facialanimation\facialanimation\mat.h(789): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\facialanimation\facialanimation\mat.h(792): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\facialanimation\facialanimation\mat.h(809): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\facialanimation\facialanimation\main.cpp(178): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\facialanimation\facialanimation\main.cpp(183): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\facialanimation\facialanimation\main.cpp(184): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\facialanimation\facialanimation\main.cpp(412): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\facialanimation\facialanimation\main.cpp(417): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\facialanimation\facialanimation\main.cpp(418): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\facialanimation\facialanimation\main.cpp(503): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\facialanimation\facialanimation\main.cpp(524): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\etuna\source\repos\facialanimation\facialanimation\main.cpp(535): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\etuna\source\repos\facialanimation\facialanimation\main.cpp(608): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\facialanimation\facialanimation\main.cpp(609): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\facialanimation\facialanimation\main.cpp(671): warning C4101: 'temp2': unreferenced local variable
+c:\users\etuna\source\repos\facialanimation\facialanimation\main.cpp(671): warning C4101: 'temp3': unreferenced local variable
+c:\users\etuna\source\repos\facialanimation\facialanimation\main.cpp(671): warning C4101: 'temp1': unreferenced local variable
+c:\users\etuna\source\repos\facialanimation\facialanimation\main.cpp(953): warning C4101: 'temp2': unreferenced local variable
+c:\users\etuna\source\repos\facialanimation\facialanimation\main.cpp(953): warning C4101: 'temp3': unreferenced local variable
+c:\users\etuna\source\repos\facialanimation\facialanimation\main.cpp(953): warning C4101: 'tempa': unreferenced local variable
+c:\users\etuna\source\repos\facialanimation\facialanimation\main.cpp(953): warning C4101: 'temp4': unreferenced local variable
+c:\users\etuna\source\repos\facialanimation\facialanimation\main.cpp(972): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+  facialanimation.vcxproj -> C:\Users\etuna\source\repos\facialanimation\Debug\facialanimation.exe
